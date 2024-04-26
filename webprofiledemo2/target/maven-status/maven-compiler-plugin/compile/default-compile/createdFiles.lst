@@ -1,0 +1,4 @@
+com\myapp\web\application\BookService.class
+com\myapp\web\entities\Book.class
+com\myapp\web\application\MyServlet.class
+com\myapp\web\presentation\BookBean.class

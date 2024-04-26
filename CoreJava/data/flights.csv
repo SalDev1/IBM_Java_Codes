@@ -1,0 +1,10 @@
+#flightNo,sourceCity,destinationCity,price,duration
+6E1234,Bengaluru,Mumbai,7545.5,2.5
+6E4321,Bengaluru,Delhi,9545.5,3.5
+6E8543,Bengaluru,Kolkata,8545.5,3.0
+AI1234,Bengaluru,Mumbai,6545.5,2.5
+AI4321,Bengaluru,Delhi,11545.5,3.5
+AI8543,Bengaluru,Kolkata,8545.5,3.0
+SJ1234,Mumbai,Bengaluru,5545.5,2.5
+SJ4321,Mumbai,Delhi,5545.5,3.5
+SJ8543,Mumbai,Kolkata,8545.5,3.0

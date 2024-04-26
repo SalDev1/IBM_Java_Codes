@@ -1,0 +1,6 @@
+
+@	A	B	C	D	E	F	G
+NBS	¡	¢	£	¤	¥	-	§	¨	©	»	Ç	Â
+SP	!	"	#	$	%	&	’	(	)	*	+
+@	A	B	C	D	E	F	G   H   I   J
+NBS	¡	¢	£	¤	¥	-	§	¨	©	»	Ç	Â  -
