@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: spring-boot-rest-mongodb
+  data:
+    mongodb:
+      uri: mongodb+srv://admin1234:admin1234@mern-cluster.selxhzh.mongodb.net/merndb?retryWrites=true&w=majority&appName=mern-cluster
+
+# Not Starting the Tomcat server.
+#  main:
+#    web-application-type: none
+server:
+  port: 9080
